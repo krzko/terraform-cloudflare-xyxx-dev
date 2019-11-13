@@ -1,2 +1,3 @@
 # terraform-cloudflare-xyxx-dev
-🌏Terraform code for managing xyxx.dev domain on Cloudflare
+
+🌏 Terraform code for managing the [xyxx.dev](https://xyxx.dev) domain on Cloudflare.
